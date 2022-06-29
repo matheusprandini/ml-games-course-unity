@@ -44,6 +44,8 @@ Após completar o código no arquivo _qlearning.py_, basta executar o script de 
 
 ```python3 training.py```
 
+Obs: exportar as envs antes de executar o comando acima.
+
 ## Material de Apoio 
 
 Alguns materiais produzidos para estudo sobre o método QLearning podem ser encontrados em [Docs](docs/)
