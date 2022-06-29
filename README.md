@@ -43,3 +43,7 @@ Para validar o funcionamento do código e a instação das dependências, execut
 Após completar o código no arquivo _qlearning.py_, basta executar o script de treinamento do agente baseado no método QLearning a partir do diretório raiz do projeto:
 
 ```python3 training.py```
+
+## Material de Apoio 
+
+Alguns materiais produzidos para estudo sobre o método QLearning podem ser encontrados em [Docs](docs/)
