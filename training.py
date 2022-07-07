@@ -7,7 +7,7 @@ from qlearning_agent import QLearning
 
 ENV_NAME: str = "Basic"  # Ambiente Basic
 NUM_ACTIONS: int = 3  # O ambiente Basic permite 3 ações
-STATE_NORMALIZATION: int = 8  # Constante utilizada para tratar o estado no ambiente Basic
+STATE_NORMALIZATION: int = 7  # Constante utilizada para tratar o estado no ambiente Basic
 
 # Mapeamento das ações válidas do Basic
 action_mapping: dict = {0: "Nothing", 1: "Left", 2: "Right"}
